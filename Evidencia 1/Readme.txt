@@ -1,4 +1,12 @@
-(desarrollar)
+Objetivos:
+Configuración exitosa de un entorno de desarrollo con React y compilador Vite (JavaScript + SWC)
+Embellecimiento simplificado gracias a Tailwind
+Fetching de datos desde API Dummyjson.com usando Axios (se obtiene lista de productos con su valor)
+
+Mejorar Estilo!
+El resultado final muestra una lista con la palabra "key" al inicio
+Los elementos están agrupados sin espacios, como un bloque
+
 
 Instrucciones para ejecutar el proyecto 
 
