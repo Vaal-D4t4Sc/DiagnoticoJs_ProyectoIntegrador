@@ -30,8 +30,7 @@ function App() {
           <h2 className="text-left text-2xl font-bold font-sans"> Recetas sabrosas </h2>
           <ul>
             {products.map((p)=>(
-              <li>key={p.title}
-              {p.title},{p.price}</li>))}
+              <likey={p.id}> {p.title},  ${p.price}</li>))}
           </ul>
 
           
