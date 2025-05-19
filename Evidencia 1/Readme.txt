@@ -4,7 +4,7 @@ Embellecimiento simplificado gracias a Tailwind
 Fetching de datos desde API Dummyjson.com usando Axios (se obtiene lista de productos con su valor)
 
 Mejorar Estilo!
-El resultado final muestra una lista con la palabra "key" al inicio
+El resultado final muestra una lista con la palabra "key" al inicio (resuelto)
 Los elementos están agrupados sin espacios, como un bloque
 
 
