@@ -12,6 +12,11 @@ Crear y utilizar componentes reutilizables en React.
 Implementar renderizado condicional y manejo de listas.
 
 
+*Mejorar:
+Espaciado entre párrafos o renglones del proyecto
+Distribución en el sitio de los elementos (lista al límite del márgen izquierdo)
+
+
 
 - Breve explicación escrita (puede ser en un archivo README.md) de:
 Las estadísticas de mayor (MAX) y menor(MIN) se conservan por su versatilidad. 
